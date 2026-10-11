@@ -12,6 +12,7 @@ and systems of a busy hospital running every day.
 ## 📡 Projects
 - **[Enterprise Network Infrastructure (GNS3)](https://github.com/mohammadrezameftah/Enterprise-Network-Infrastructure-GNS3)** — redundant core, FortiGate firewall, VLAN segmentation, inter-VLAN routing
 - **[Multi-Branch Network with High Availability (GNS3)](https://github.com/mohammadrezameftah/Multi-Branch-Enterprise-Network-with-High-Availability)** — 5 branches, VRRP/HSRP, dual ISP, server & management VLANs
+- **[Windows Server / Active Directory Home Lab](https://github.com/mohammadrezameftah/Windows-Server-AD-HomeLab)** — automated DC, DNS, DHCP, OU/user provisioning, GPO hardening, file services (PowerShell)
 
 ## 📫 Contact
 - Email: rezahr2014@gmail.com
